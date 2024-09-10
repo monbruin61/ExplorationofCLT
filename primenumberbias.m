@@ -1,3 +1,4 @@
+% sd (standard deviation) is hand calculated
 Result = [];
 mean = 6.235;
 index = 0;
